@@ -1,32 +1,80 @@
-<h1 align="center">Hi 👋, I'm hamza abika</h1>
-<h3 align="center">Web Developer passionate about programming and IT. I work on professional web projects with clean structure and a focus on user experience. Always learning, improving, and exploring new technologies.</h3>
+<h1 align="center">Hamza Abika</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaabika&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaabika" /> </p>
+<h3 align="center">Tech Entrepreneur &amp; Systems / Product Builder — Casablanca, Morocco</h3>
 
-- 🔭 I’m currently working on **Recipe App (cooking & food recipes platform)**
-
-- 🌱 I’m currently learning **Improving my Backend skills (Laravel & Node.js)**
-
-- 👯 I’m looking to collaborate on **Frontend design**
-
-- 💬 Ask me about **Web development learning tips**
-
-- 📫 How to reach me **- Instagram: @hamzaa_digital - Email: hamzaabika2006@gmail.com**
-
-- ⚡ Fun fact **I can’t code without coffee ☕😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hamza_abika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza_abika" height="30" width="40" /></a>
-<a href="https://instagram.com/hamzaa_digital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamzaa_digital" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hamzaabika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hamzaabika" height="30" width="40" /></a>
+<p align="center">
+  <strong>Stop working randomly. Start building systems.</strong><br/>
+  I turn early product ideas and chaotic workflows into scalable SaaS platforms, automated AI systems, and high-converting web engines that actually grow your business.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://hamzaabika.com"><strong>hamzaabika.com</strong></a> ·
+  <a href="https://www.linkedin.com/in/hamzaabika/">LinkedIn</a> ·
+  <a href="https://instagram.com/hamzaa_digital">Instagram</a> ·
+  <a href="https://www.youtube.com/@hamzaabika">YouTube</a> ·
+  <a href="https://www.tiktok.com/@hamza_abikaa">TikTok</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaabika&show_icons=true&locale=en&layout=compact" alt="hamzaabika" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaabika&show_icons=true&locale=en" alt="hamzaabika" /></p>
+## Who I am
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaabika&" alt="hamzaabika" /></p>
+I didn't start as a founder. I started by learning digital skills — web development, video editing, design and marketing — and working on projects for entrepreneurs and businesses. That ground floor taught me how most people actually operate online: creators posting content with no backend to capture leads, and businesses with websites that look fine but don't do anything.
+
+That changed what I wanted to do. Skills create income — **systems create leverage.**
+
+Today I build useful products and companies of my own, and I help ambitious founders, experts and businesses build theirs:
+
+- **Founder & CTO — [Nettworki](https://www.nettworki.com)** — a Moroccan platform where ambitious people connect, learn practical skills, and stay focused, with networking, productivity tools and learning paths in one ecosystem.
+- **Co-Founder & COO — [Briyo Media](https://briyomedia.com)** — a personal branding and client acquisition agency. I engineer the operational and technical backbone: websites, sales funnels, CRMs and automated workflows that turn attention into paying clients.
+
+My ambition: build technology companies with lasting impact in Morocco and the Arab world.
+
+## What I build
+
+**01 — Products & SaaS**
+Got a platform or tool in mind? I engineer it from zero to launch: the right tech stack, database architecture, and a fast, reliable product people actually use — from a focused MVP to a full web application.
+
+**02 — AI, Automation & CRM**
+Systems that eliminate manual chaos: AI workflows, CRMs and automations that capture leads, follow up, and free up hours every week.
+
+**03 — Funnels, Websites & Growth Engines**
+High-converting websites and funnels connected to a real backend — so attention stops leaking and starts turning into qualified inquiries and clients.
+
+→ Work with me: **[hamzaabika.com](https://hamzaabika.com)**
+
+## Featured work
+
+- **[ClipCraft](https://github.com/hamzaabika/clipcraft)** — a free, open-source desktop video editor for Linux, Windows & macOS. No watermark, no account, no subscription. My flagship open-source build.
+- **[Nettworki](https://www.nettworki.com)** — networking, learning and growth platform for ambitious builders in Morocco and the Arab world.
+- **[Briyo Media](https://briyomedia.com)** — brand, content and growth systems for experts and businesses.
+
+Selected client and product work — Booki.ma (booking platform), Mirage d'Or (e-commerce), Netphone (store operations dashboard), ALFATECH Ascenseur (corporate site), TADAFFUQ (lead-magnet funnel) — is on **[hamzaabika.com](https://hamzaabika.com)**.
+
+## Currently building
+
+- 🔭 **Nettworki** — growing the platform and its community challenges
+- 🎬 **ClipCraft** — improving the open-source editor, release by release
+- ⚙️ Client systems — SaaS platforms, AI automations and funnels for founders and service businesses
+
+## How I think
+
+- **Solve the problem before writing the code** — start with the operational bottleneck, not the feature list.
+- **Technology is leverage, not the goal** — choose the simplest stack that creates real business value.
+- **AI should eliminate friction, not add hype** — automation moves faster when human judgment stays in control.
+- **Great products still need an engine** — attention without a backend system is a wasted opportunity.
+
+## Tech I build with
+
+TypeScript · JavaScript · React · Node.js · Python · PostgreSQL · Supabase · Electron · Tailwind CSS · Figma · Git · Linux
+
+## Connect with me
+
+- 🌐 Website — [hamzaabika.com](https://hamzaabika.com)
+- 💼 LinkedIn — [linkedin.com/in/hamzaabika](https://www.linkedin.com/in/hamzaabika/)
+- 📸 Instagram — [@hamzaa_digital](https://instagram.com/hamzaa_digital)
+- ▶️ YouTube — [@hamzaabika](https://www.youtube.com/@hamzaabika)
+- 🎵 TikTok — [@hamza_abikaa](https://www.tiktok.com/@hamza_abikaa)
+- 📫 Email — hamzaabika2006@gmail.com
+
+**Have something interesting in mind — a product, a system, a funnel? [Tell me about it →](https://hamzaabika.com)**
